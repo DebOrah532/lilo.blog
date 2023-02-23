@@ -1,6 +1,6 @@
 +++
 title = "Wie entsteht Regen?"
-draft = true
+draft = false
 image = "entstehung_von_regen.svg"
 description = "Regen besteht aus kleinen Wassertropfen, die bei der Verdunstung von Wasser auf unserer Oberfläche zum Himmel aufsteigen. Dort kondensieren sie durch die Kälte, reichern sich an kleinen Schmutzpartikeln an und verbinden sich mit weiteren Tröpfchen zu Wolken. Werden diese zu schwer, entleeren sie sich – es regnet."
 footnotes = "***Diese Formen beschreiben meist die Auswirkung und das Empfinden durch den Beobachter am Boden, der primäre Entstehungsprozess wird bei der Betrachtung meist vernachlässigt.***"

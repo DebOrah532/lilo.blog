@@ -21,10 +21,7 @@ footnotes = "Verfasserin: Deborah M."
 >
 > Für dies sehe ich leider zu gut
 
-**Am Bahnhof wusste ich nicht genau, wie ich Sie ansprechen sollte. Weil ich mir dachte, wenn ich Sie berühren würde, könnten Sie erschrecken und deswegen wollte ich Sie fragen, wie Sie es mögen, von anderen Personen angesprochen zu werden?**
-
-
-Ich hörte zu viel meinen Namen und habe zu oft zurückgeschaut, mittlerweile mache ich dies nicht mehr. Ich finde, man sollte mir besser auf die Schulter klopfen, wenn ich halt erschrecke, erschrecke ich.
+**Am Bahnhof wusste ich nicht genau, wie ich Sie ansprechen sollte. Weil ich mir dachte, wenn ich Sie berühren würde, könnten Sie erschrecken und deswegen wollte ich Sie fragen, wie Sie es mögen, von anderen Personen angesprochen zu werden?** Ich hörte zu viel meinen Namen und habe zu oft zurückgeschaut, mittlerweile mache ich dies nicht mehr. Ich finde, man sollte mir besser auf die Schulter klopfen, wenn ich halt erschrecke, erschrecke ich.
 
 **Dementsprechend war dies eine komische Situation oder gibt es noch eine weitere komische oder eher lustige Situation, welche Ihnen gerade in den Sinn kommt?**
 Ja also eine lustige Situation, eher eine ärgerliche Situation, bei welcher andere Personen mich plötzlich am Arm nehmen und mich in eine Richtung ziehen. Dies ist eine falsche Herangehensweise. Eine blinde oder sehbeeinträchtigte Person sollte die Hilfsperson am Arm nehmen und nicht andersrum.

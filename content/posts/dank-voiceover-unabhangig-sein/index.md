@@ -7,7 +7,7 @@ image = "microsoftteams-image-10-.png"
 description = "Welchen Nutzen hat die Sprache für die Blindheit? Wie man eine Person ansprechen sollte, die Kommunikation mit seinem Hund, Voiceover und die heutige Technik, all dies hilft zur Unabhängigkeit. "
 footnotes = "Verfasserin: Deborah M."
 +++
-![](microsoftteams-image-10-.png "Martin Schaub mit seinem Hund Ronnja")
+![Martin Schaub mit seinem Hund Ronnja](microsoftteams-image-10-.png)
 
 {{<box>}}
 *Martin Schaub ist 51 Jahre alt und wohnt in Jegenstorf. Er hat seine Sehbeeinträchtigung seit Geburt an und laut augenärztlichem Attest hat er eine 25-prozentige Sehkraft. Er ist Mitglied des Blindenbundes. Früher arbeitete er als Velo-/Motorradmechaniker und momentan arbeitet er als Laufradmonteur in Liebefeld.* 
@@ -22,6 +22,8 @@ footnotes = "Verfasserin: Deborah M."
 > Für dies sehe ich leider zu gut
 
 **Am Bahnhof wusste ich nicht genau, wie ich Sie ansprechen sollte. Weil ich mir dachte, wenn ich Sie berühren würde, könnten Sie erschrecken und deswegen wollte ich Sie fragen, wie Sie es mögen, von anderen Personen angesprochen zu werden?**
+
+
 Ich hörte zu viel meinen Namen und habe zu oft zurückgeschaut, mittlerweile mache ich dies nicht mehr. Ich finde, man sollte mir besser auf die Schulter klopfen, wenn ich halt erschrecke, erschrecke ich.
 
 **Dementsprechend war dies eine komische Situation oder gibt es noch eine weitere komische oder eher lustige Situation, welche Ihnen gerade in den Sinn kommt?**

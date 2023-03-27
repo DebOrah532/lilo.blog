@@ -9,12 +9,9 @@ footnotes = "Verfasserin: Deborah M."
 +++
 ![Martin Schaub mit seinem Hund Ronnja](microsoftteams-image-10-.png)
 
-`{{</*box*/>}}`\
-{{<box title="Informationen zu Martin Schaub">}}
-*Martin Schaub ist 51 Jahre alt und wohnt in Jegenstorf. Er hat seine Sehbeeinträchtigung seit Geburt an und laut augenärztlichem Attest hat er eine 25-prozentige Sehkraft. Er ist Mitglied des Blindenbundes. Früher arbeitete er als Velo-/Motorradmechaniker und momentan arbeitet er als Laufradmonteur in Liebefeld.* \
-`{{</*/box*/>}}`
-
-``
+{{<box>}}
+*Martin Schaub ist 51 Jahre alt und wohnt in Jegenstorf. Er hat seine Sehbeeinträchtigung seit Geburt an und laut augenärztlichem Attest hat er eine 25-prozentige Sehkraft. Er ist Mitglied des Blindenbundes. Früher arbeitete er als Velo-/Motorradmechaniker und momentan arbeitet er als Laufradmonteur in Liebefeld.* 
+{{</box>}}
 
 > Wenn ich halt erschrecke, erschrecke ich
 >

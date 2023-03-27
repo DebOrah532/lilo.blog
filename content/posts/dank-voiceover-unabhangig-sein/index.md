@@ -14,6 +14,8 @@ footnotes = "Verfasserin: Deborah M."
 *Martin Schaub ist 51 Jahre alt und wohnt in Jegenstorf. Er hat seine Sehbeeinträchtigung seit Geburt an und laut augenärztlichem Attest hat er eine 25-prozentige Sehkraft. Er ist Mitglied des Blindenbundes. Früher arbeitete er als Velo-/Motorradmechaniker und momentan arbeitet er als Laufradmonteur in Liebefeld.* \
 `{{</*/box*/>}}`
 
+``
+
 > Wenn ich halt erschrecke, erschrecke ich
 >
 > Eine blinde oder sehbeeinträchtigte Person sollte die Hilfsperson am Arm nehmen und nicht andersrum

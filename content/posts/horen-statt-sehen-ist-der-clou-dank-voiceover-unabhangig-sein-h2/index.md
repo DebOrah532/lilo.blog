@@ -1,16 +1,17 @@
 +++
-title = "Hören statt Sehen ist der Clou - Dank VoiceOver unabhängig sein (H2)"
+title = "Hören statt Sehen ist der Clou - Dank VoiceOver unabhängig sein(H2)"
 date = "2023-04-08"
 draft = false
 pinned = false
 image = "microsoftteams-image-10-.png"
-description = "In einer Welt, die von visuellen eindrücken dominiert wird, kann es für sehbehinderte Menschen schwierig sein, unabhängig und selbstbestimmt zu Leben. Doch für Martin Schaub, eine sehbehinderte Person anfangs fünfzig, hat sich das dank moderner Technologie geändert. Mit seinem treuen Begleiter, ein Shih Tzu Hund Namens Ronnja, einem Blindenstock und der Hilfe von VoiceOver, einer eingebauten Sprachausgabe auf seinem iPhone ist Martin Schaub so unabhängig wie nie zuvor. \n\nDeborah Makivic"
+description = "In einer Welt, die von visuellen eindrücken dominiert wird, kann es für sehbehinderte Menschen schwierig sein, unabhängig und selbstbestimmt zu Leben. Doch für Martin Schaub, eine sehbehinderte Person anfangs fünfzig, hat sich das dank moderner Technologie geändert."
+footnotes = "Deborah M."
 +++
-![](microsoftteams-image-10-.png "Martin Schaub mit seinen Hilfsmitteln ")
+![Martin Schaub mit seinen Hilfsmitteln](microsoftteams-image-10-.png)
 
 Während des Interviews auf der Grossen Schanze kann man den Lärm und die Hektik des Bahnhofs Bern im Hintergrund hören, was dem Gespräch eine gewisse Atmosphäre verleiht. Die Passanten, die hektisch an dem Treffpunkt vorbeieilten, tragen zum Ambiente bei. Es ist ein Ort der Kontraste: Auf der einen Seite der belebte Bahnhof und auf der anderen Seite die idyllische Aussicht auf die Stadt und die Berge. In diesem Kontext sticht die moderne Technologie hervor, die im Zentrum des Interviews steht, und der ruhige Shih tzu Hund, der die ganze Zeit über seinem Besitzer zur Seite steht.
 
-> **«Wenn man es kann, ist es einfach»**
+**«Wenn man es kann, ist es einfach»**
 
 Martin Schaub strahlt trotz seiner starken Sehbehinderung eine bemerkenswerte Selbstsicherheit aus, die sich auch in seiner Mobilität widerspiegelt. «Wenn ich mich nicht zurechtfinde, verwende ich Google Maps» sagt er stolz. Er erklärt, dass er dafür sein iPhone mit VoiceOver nutzt, indem er das Display zweimal antippt, um eine App zu öffnen. Mit einem Lächeln fügt er hinzu: «Wenn man es kann, ist es einfach».
 

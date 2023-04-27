@@ -7,7 +7,7 @@ image = "microsoftteams-image-10-.png"
 description = ""
 footnotes = ""
 +++
-![Martin Schaub mit seinen Hilfsmitteln](microsoftteams-image-10-.jpg)
+![Martin Schaub mit seinen Hilfsmitteln](microsoftteams-image-10-.png)
 
 ###### **In einer Welt, die von visuellen eindrücken dominiert wird, kann es für sehbehinderte Menschen schwierig sein, unabhängig und selbstbestimmt zu Leben. Doch für Martin Schaub, eine sehbehinderte Person anfangs fünfzig, hat sich das dank moderner Technologie geändert. Mit seinem treuen Begleiter, ein Shih Tzu Hund Namens Ronnja, einem Blindenstock und der Hilfe von VoiceOver, einer eingebauten Sprachausgabe auf seinem iPhone ist Martin Schaub so unabhängig wie nie zuvor.**
 

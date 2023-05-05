@@ -11,6 +11,8 @@ footnotes = ""
 
 ##### In einer Welt, die von visuellen eindrücken dominiert wird, kann es für sehbehinderte Menschen schwierig sein, unabhängig und selbstbestimmt zu Leben. Doch für Martin Schaub, eine sehbehinderte Person anfangs fünfzig, hat sich das dank moderner Technologie geändert. Mit seinem treuen Begleiter, ein Shih Tzu Hund namens Ronnja, einem Blindenstock und der Hilfe von VoiceOver, einer eingebauten Sprachausgabe auf seinem iPhone ist Martin Schaub so unabhängig wie nie zuvor.
 
+
+
 Auf der Grossen Schanze kann man den Lärm und die Hektik des Bahnhofs Bern im Hintergrund hören, was dem Gespräch eine urbane Atmosphäre verleiht. Die Passanten, die hektisch an dem Treffpunkt vorbeieilten, tragen zum Ambiente bei. Es ist ein Ort der Kontraste: Auf der einen Seite der belebte Bahnhof und auf der anderen Seite die idyllische Aussicht auf die Stadt und die Berge. In diesem Kontext sticht die moderne Technologie hervor, die im Zentrum des Interviews steht, und der ruhige Shih tzu Hund, der die ganze Zeit über seinem Besitzer zur Seite steht.
 
 > **«Wenn man es kann, ist es einfach»**

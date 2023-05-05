@@ -16,6 +16,8 @@ In einer Welt, die von visuellen eindrücken dominiert wird, kann es für sehbeh
 
 Auf der Grossen Schanze kann man den Lärm und die Hektik des Bahnhofs Bern im Hintergrund hören, was dem Gespräch eine urbane Atmosphäre verleiht. Die Passanten, die hektisch an dem Treffpunkt vorbeieilten, tragen zum Ambiente bei. Es ist ein Ort der Kontraste: Auf der einen Seite der belebte Bahnhof und auf der anderen Seite die idyllische Aussicht auf die Stadt und die Berge. In diesem Kontext sticht die moderne Technologie hervor, die im Zentrum des Interviews steht, und der ruhige Shih tzu Hund, der die ganze Zeit über seinem Besitzer zur Seite steht.
 
+
+
 > **«Wenn man es kann, ist es einfach»**
 
 Martin Schaub strahlt trotz seiner starken Sehbehinderung eine bemerkenswerte Selbstsicherheit aus, die sich auch in seiner Mobilität widerspiegelt. «Wenn ich mich nicht zurechtfinde, verwende ich Google Maps» sagt er stolz. Er erklärt, dass er dafür sein iPhone mit VoiceOver nutzt, indem er das Display zweimal antippt, um eine App zu öffnen. Mit einem Lächeln fügt er hinzu: «Wenn man es kann, ist es einfach."

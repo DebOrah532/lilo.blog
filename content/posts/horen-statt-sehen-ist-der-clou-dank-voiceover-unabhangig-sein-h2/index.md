@@ -9,7 +9,7 @@ footnotes = ""
 +++
 ![Martin Schaub mit seinen Hilfsmitteln](microsoftteams-image-10-.png)
 
-###### **In einer Welt, die von visuellen eindrücken dominiert wird, kann es für sehbehinderte Menschen schwierig sein, unabhängig und selbstbestimmt zu Leben. Doch für Martin Schaub, eine sehbehinderte Person anfangs fünfzig, hat sich das dank moderner Technologie geändert. Mit seinem treuen Begleiter, ein Shih Tzu Hund namens Ronnja, einem Blindenstock und der Hilfe von VoiceOver, einer eingebauten Sprachausgabe auf seinem iPhone ist Martin Schaub so unabhängig wie nie zuvor.**
+##### In einer Welt, die von visuellen eindrücken dominiert wird, kann es für sehbehinderte Menschen schwierig sein, unabhängig und selbstbestimmt zu Leben. Doch für Martin Schaub, eine sehbehinderte Person anfangs fünfzig, hat sich das dank moderner Technologie geändert. Mit seinem treuen Begleiter, ein Shih Tzu Hund namens Ronnja, einem Blindenstock und der Hilfe von VoiceOver, einer eingebauten Sprachausgabe auf seinem iPhone ist Martin Schaub so unabhängig wie nie zuvor.
 
 Auf der Grossen Schanze kann man den Lärm und die Hektik des Bahnhofs Bern im Hintergrund hören, was dem Gespräch eine urbane Atmosphäre verleiht. Die Passanten, die hektisch an dem Treffpunkt vorbeieilten, tragen zum Ambiente bei. Es ist ein Ort der Kontraste: Auf der einen Seite der belebte Bahnhof und auf der anderen Seite die idyllische Aussicht auf die Stadt und die Berge. In diesem Kontext sticht die moderne Technologie hervor, die im Zentrum des Interviews steht, und der ruhige Shih tzu Hund, der die ganze Zeit über seinem Besitzer zur Seite steht.
 
@@ -18,6 +18,10 @@ Auf der Grossen Schanze kann man den Lärm und die Hektik des Bahnhofs Bern im H
 Martin Schaub strahlt trotz seiner starken Sehbehinderung eine bemerkenswerte Selbstsicherheit aus, die sich auch in seiner Mobilität widerspiegelt. «Wenn ich mich nicht zurechtfinde, verwende ich Google Maps» sagt er stolz. Er erklärt, dass er dafür sein iPhone mit VoiceOver nutzt, indem er das Display zweimal antippt, um eine App zu öffnen. Mit einem Lächeln fügt er hinzu: «Wenn man es kann, ist es einfach."
 
 Für ihn ist die Technologie ein Schlüssel zur Unabhängigkeit, der ihm die Türen öffnet. Mit VoiceOver kann er sich durch Fingergesten navigieren. «Es ist etwas anderes als Siri», betont er. Bei Siri kann man nur mit der Sprache Befehle geben und VoiceOver ermöglicht es dem Benutzer, durch Gesten und Tastenkombinationen mit dem Gerät zu interagieren. So kann er auch Anrufe tätigen und empfangen, E-Mails abrufen und beantworten und in sozialen Netzwerken surfen.
+
+{{<box>}}
+Weniger als 0.5 % der Kinder sind von Sehbehinderungen betroffen. Doch im mittleren Erwachsenenalter steigt der Anteil auf etwa 5 % und im höheren Alter auf mindestens 20 % an. Bei neunzigjährigen Menschen ist eine Sehbehinderung fast Normalität. Angesichts der zukünftigen Demografie wird die fortschreitende Technologie eine noch wichtigere Rolle bei der Unterstützung sehbehinderten Menschen spielen.
+{{</box>}}
 
 **Zu gut gemeinte Hilfe**
 
